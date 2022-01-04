@@ -1,0 +1,14 @@
+.loadingScreen {
+    width: 100vw;
+    height: 100vw;
+}
+
+.loadingScreen div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.toDoDetails .loadingScreen {
+    height: 10vh !important;
+}
